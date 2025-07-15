@@ -1,7 +1,7 @@
 {
     "name": "Japanese Glossary Generator",
     "author": "Misael FIlho",
-    "version": "2.0.0",
+    "version": "2.1.1",
     "description": "Automatically generates comprehensive glossaries for Japanese text with hiragana, katakana, and kanji information using external APIs.",
     "homepage": "https://github.com/jukmisael/japanese-glossary-generator",
     "tags": ["japanese", "glossary", "kanji", "hiragana", "katakana", "study"],

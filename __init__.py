@@ -15,7 +15,7 @@ from .dialogs import BatchGlossaryDialog, SettingsDialog, AboutDialog
 from .logger import write_log
 
 ADDON_NAME = "Japanese Glossary Generator"
-ADDON_VERSION = "2.0.0"
+ADDON_VERSION = "2.1.1"
 ADDON_AUTHOR = "Misael FIlho"
 ADDON_DESCRIPTION = "Automatically generates comprehensive glossaries for Japanese text with hiragana, katakana, and kanji information using external APIs."
 

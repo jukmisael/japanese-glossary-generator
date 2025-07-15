@@ -143,7 +143,7 @@ This add-on is provided as-is. See the license file for full terms.
 
 ## Changelog
 
-### Version 2.0.0
+### Version 2.1.1
 - Complete rewrite with modular architecture
 - Improved error handling and logging
 - Enhanced caching system
